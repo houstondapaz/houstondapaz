@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a fullstack developer ( but I'm terrible with CSS) since 2008 and counting...
+
+- 🔭 I’m currently working on [Octadesk](https://octadesk.com)
+- 🌱 I’m currently learning AI (and applying)
+- 📫 How to reach me: contact@houstondapaz.dev
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houstondapaz&count_private=true&include_all_commits=true&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
+![Houston da Paz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=houstondapaz&count_private=true&include_all_commits=true&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
+
+
 <!--
 **houstondapaz/houstondapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

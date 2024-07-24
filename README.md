@@ -2,7 +2,7 @@
 
 I've been a full-stack developer ( but I'm terrible with CSS) since 2008 and counting...
 
-- 🔭 I'm currently working as a platform engineer at [Octadesk](https://octadesk.com)
+- 🔭 I'm currently working as a senior software engineer at [Avalara](https://avalara.com)
 - 🌱 I'm currently improving my English, let's talk
 - 📫 How to reach me: contact@houstondapaz.dev
 
